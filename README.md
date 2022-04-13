@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+#Accidently, made to app files. Deleted both, then cloned the repository.
